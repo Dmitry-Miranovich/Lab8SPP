@@ -1,0 +1,16 @@
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.exe
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.deps.json
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.runtimeconfig.json
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.runtimeconfig.dev.json
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.dll
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\ref\Lab8SPP.dll
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\bin\Debug\net5.0\Lab8SPP.pdb
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.csproj.AssemblyReference.cache
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.AssemblyInfoInputs.cache
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.AssemblyInfo.cs
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.csproj.CoreCompileInputs.cache
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.dll
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\ref\Lab8SPP.dll
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.pdb
+D:\Третий курс\СПП\Lab8SPP\Lab8SPP\obj\Debug\net5.0\Lab8SPP.genruntimeconfig.cache
